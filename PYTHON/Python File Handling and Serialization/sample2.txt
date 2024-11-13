@@ -1,0 +1,2 @@
+this file was already present
+this line going to be append in sample2.txt
